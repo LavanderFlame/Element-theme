@@ -1,0 +1,32 @@
+{
+  "name": "Lavender Dream",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#6340bc",                  
+    "accent": "#794ee6",                         
+    "primary-color": "#4d3291",                 
+    "warning-color": "#20153c",                 
+    "alert": "#362367",                         
+
+    "sidebar-color": "#090612",                 
+    "roomlist-background-color": "#20153c",     
+    "roomlist-text-color": "#794ee6",            
+    "roomlist-text-secondary-color": "#6340bc", 
+    "roomlist-highlights-color": "#4d3291",    
+    "roomlist-separator-color": "#362367",      
+
+    "timeline-background-color": "#090612",    
+    "timeline-text-color": "#794ee6",            
+    "secondary-content": "#6340bc",              
+    "tertiary-content": "#4d3291",               
+    "timeline-text-secondary-color": "#362367", 
+    "timeline-highlights-color": "#794ee6",     
+
+    "reaction-row-button-selected-bg-color": "#6340bc",  
+    "menu-selected-color": "#794ee6",           
+    "focus-bg-color": "#4d3291",                 
+    "room-highlight-color": "#6340bc",            
+    "other-user-pill-bg-color": "#794ee6",        
+    "togglesw-off-color": "#20153c"               
+  }
+}
