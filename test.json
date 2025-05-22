@@ -1,0 +1,32 @@
+{
+    "name": "test-theme",
+     "is_dark": true,
+    "colors": {
+        "accent-color": "#FF4500",                    
+        "accent": "#00FFFF",                          
+        "primary-color": "#800080",                   
+        "warning-color": "#FFFF00",                   
+        "alert": "#FF0000",                           
+
+        "sidebar-color": "#008000",                  
+        "roomlist-background-color": "#00008B",      
+        "roomlist-text-color": "#FFD700",             
+        "roomlist-text-secondary-color": "#00FF00",  
+        "roomlist-highlights-color": "#FF69B4",     
+        "roomlist-separator-color": "#8B0000",       
+
+        "timeline-background-color": "#2F4F4F",      
+        "timeline-text-color": "#7FFF00",           
+        "secondary-content": "#FF6347",              
+        "tertiary-content": "#40E0D0",                
+        "timeline-text-secondary-color": "#D2691E",  
+        "timeline-highlights-color": "#9400D3",      
+
+        "reaction-row-button-selected-bg-color": "#00CED1",
+        "menu-selected-color": "#FF1493",            
+        "focus-bg-color": "#1E90FF",                 
+        "room-highlight-color": "#FF8C00",            
+        "other-user-pill-bg-color": "#00FA9A",         
+        "togglesw-off-color": "#696969"                
+    }
+}
