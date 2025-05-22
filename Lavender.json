@@ -24,12 +24,9 @@
 
     "reaction-row-button-selected-bg-color": "#6340bc",
     "menu-selected-color": "#794ee6",
-    "focus-bg-color": "#4d3291",
+    "focus-bg-color": "#C5ABED",               
     "room-highlight-color": "#C5ABED",
     "other-user-pill-bg-color": "#794ee6",
-    "togglesw-off-color": "#20153c",
-
-    "selection-color": "#bda5f7",               
-    "selection-text-color": "#090612"           
+    "togglesw-off-color": "#20153c"
   }
 }
