@@ -1,0 +1,32 @@
+{
+  "name": "Midnight Ablaze",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#7c183c ",                  
+    "accent": "#d53c6a",                         
+    "primary-color": "#460e2b",                 
+    "warning-color": "#d53c6a",                 
+    "alert": "#ff8274",                         
+
+    "sidebar-color": "#460e2b",                 
+    "roomlist-background-color": "#31051e",     
+    "roomlist-text-color": "#130208",            
+    "roomlist-text-secondary-color": "#460e2b", 
+    "roomlist-highlights-color": "#7c183c",    
+    "roomlist-separator-color": "#1f0510",      
+
+    "timeline-background-color": "#1f0510",    
+    "timeline-text-color": "#d53c6a",            
+    "secondary-content": "#130208 ",              
+    "tertiary-content": "#460e2b",               
+    "timeline-text-secondary-color": "#FFFFFF", 
+    "timeline-highlights-color": "#7c183c ",     
+
+    "reaction-row-button-selected-bg-color": "#d53c6a",  
+    "menu-selected-color": "#d53c6a",           
+    "focus-bg-color": "#130208",                 
+    "room-highlight-color": "#ff8274",            
+    "other-user-pill-bg-color": "#7c183c",        
+    "togglesw-off-color": "#31051e"               
+  }
+}
